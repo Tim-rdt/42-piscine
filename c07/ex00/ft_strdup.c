@@ -6,11 +6,11 @@
 /*   By: troudot <troudot@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/09/19 08:36:55 by troudot           #+#    #+#             */
-/*   Updated: 2022/09/20 04:00:35 by troudot          ###   ########.fr       */
+/*   Updated: 2022/09/21 13:34:56 by troudot          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 // #include <stdlib.h>
 
-// char	*ft_strdup(char *src)
-// {}
+char	*ft_strdup(char *src)
+{}

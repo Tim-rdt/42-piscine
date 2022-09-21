@@ -6,7 +6,7 @@
 /*   By: troudot <troudot@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/09/13 08:59:37 by troudot           #+#    #+#             */
-/*   Updated: 2022/09/20 04:00:20 by troudot          ###   ########.fr       */
+/*   Updated: 2022/09/17 01:44:51 by troudot          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -40,7 +40,7 @@ void	ft_putnbr(int nb)
 		ft_putchar(nb + 48);
 }
 
-// int	main(void)
-// {
-// 	ft_putnbr(-2147483648);
-// }
+//int	main(void)
+//{
+//	ft_putnbr(-2147483648);
+//}
